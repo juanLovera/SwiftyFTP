@@ -13,7 +13,7 @@ Simple Linux version of "[Rebekka](https://github.com/Constantine-Fry/rebekka) -
 ## Installation
 Include the following to your `Package.swift` file:
 	
-	.package(url: "https://github.com//juanLovera/SwiftyFTP.git", from: "1.0.0")
+	.package(url: "https://github.com/juanLovera/SwiftyFTP.git", from: "1.0.0")
 
 ## Usage
 
